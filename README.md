@@ -14,7 +14,8 @@
     * Python,
     * SQL,
     * BI системы (Yandex DataLens, Tableau, Power BI).
-- Skills: 
+- Skills:
+    * Английский и немецкий языки (уровень владения - B2) 
     
 
 ### ⚡️ В настоящее время ⚡️
