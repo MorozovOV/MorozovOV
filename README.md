@@ -7,7 +7,7 @@
   
 ### 📚 Проекты 📚
 
-* Кликни [сюда](https://github.com/MorozovOV/morosowoleg/tree/main/project_0) и [сюда](https://github.com/MorozovOV/morosowoleg/tree/projects), чтобы посмотреть мои проекты
+* Кликни [сюда](https://github.com/MorozovOV/morosowoleg/tree/projects), чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
 - Инструменты: 
