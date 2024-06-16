@@ -18,7 +18,8 @@
 
 ![Static Badge](https://img.shields.io/badge/-%23C5D0E6?style=for-the-badge&logo=docker&logoColor=blue&label=docker&labelColor=%23C5D0E6)
 
-![Static Badge](https://img.shields.io/badge/-%23C5D0E6?style=for-the-badge&logo=yandex%20cloud&logoColor=blue&label=yandex%20cloud&labelColor=%23C5D0E6)
+![Static Badge](https://img.shields.io/badge/-%23C5D0E6?style=for-the-badge&logo=yandex%20cloud&logoColor=blue&label=yandex%20cloud&labelColor=%23C5D0E6), ![Static Badge](https://img.shields.io/badge/-red?style=for-the-badge&logo=comet%20ml&logoColor=red&label=comet%20ml&labelColor=red)
+
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black), ![Tableau](https://xmldatafeed.com/wp-content/uploads/2023/07/39.gif), ![Static Badge](https://img.shields.io/badge/-blue?style=for-the-badge&logo=datalens&logoColor=blue&label=datalens&labelColor=blue)
 
