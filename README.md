@@ -16,6 +16,9 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white), ![Static Badge](https://img.shields.io/badge/-%23C5D0E6?style=for-the-badge&logo=clickhouse&logoColor=yellow&label=clickhouse&labelColor=%23C5D0E6), ![Static Badge](https://img.shields.io/badge/-%23C5D0E6?style=for-the-badge&logo=redis&logoColor=red&label=redis&labelColor=%23C5D0E6), ![Static Badge](https://img.shields.io/badge/-black?style=for-the-badge&logo=mongodb&logoColor=green&label=mongodb&labelColor=black)
 
+![Static Badge](https://img.shields.io/badge/hadoop-blue?style=flat&logo=apache&logoColor=red&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/spark-black?style=flat&logo=apache&logoColor=red&labelColor=white&color=black)
+
 ![Static Badge](https://img.shields.io/badge/-%23C5D0E6?style=for-the-badge&logo=docker&logoColor=blue&label=docker&labelColor=%23C5D0E6)
 
 ![Static Badge](https://img.shields.io/badge/-%23C5D0E6?style=for-the-badge&logo=yandex%20cloud&logoColor=blue&label=yandex%20cloud&labelColor=%23C5D0E6), ![Static Badge](https://img.shields.io/badge/-red?style=for-the-badge&logo=comet%20ml&logoColor=red&label=comet%20ml&labelColor=red)
