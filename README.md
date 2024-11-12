@@ -52,6 +52,5 @@
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/holger_frost)
-- [ВКонтакте](https://vk.com/holger_frost)
 - morosowoleg@mail.ru
 - holger.frost@yandex.ru
